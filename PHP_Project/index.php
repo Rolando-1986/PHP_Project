@@ -1,4 +1,4 @@
 <?php
 
-echo 'Hello Framework 2
- !';
+
+echo "<br/><p>Hola mundo</p>";
